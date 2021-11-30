@@ -1,0 +1,16 @@
+{
+    "resolving": [
+        1920,
+        1080
+    ],
+    "api": "\u968f\u673a",
+    "category": "\u968f\u673a",
+    "switch": 300,
+    "length": 5000,
+    "show_windmill": 2,
+    "random_switch": "\u4e00\u9875",
+    "play_what": "\u7f51\u7edc",
+    "auto_start": 0,
+    "directory": "E:/picture/\u98ce\u666f",
+    "timeout": 10
+}

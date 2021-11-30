@@ -1,0 +1,856 @@
+{
+    "api": {
+        "Unsplash": {
+            "ignore_list": [
+                "Sky",
+                "Night",
+                "Animals",
+                "Architecture",
+                "Tree",
+                "Sport",
+                "Travel",
+                "Food"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Nature": 3,
+                "Night": 1,
+                "Sky": 1,
+                "Scenery": 4,
+                "Forest": 1,
+                "Tree": 1,
+                "Architecture": 1,
+                "Animals": 1,
+                "Landscapes": 1,
+                "Travel": 1,
+                "Food": 1,
+                "Sport": 1
+            }
+        },
+        "Pexels": {
+            "ignore_list": [
+                "green",
+                "trees",
+                "sky",
+                "black-white",
+                "flowers",
+                "rain",
+                "food",
+                "river",
+                "mockup",
+                "water",
+                "clouds",
+                "earth",
+                "sport",
+                "winter",
+                "night",
+                "sea",
+                "sunset",
+                "travel",
+                "wood",
+                "architecture",
+                "forest",
+                "nature"
+            ],
+            "hate_list": [],
+            "like_list": [],
+            "cate_page": {
+                "green": 1,
+                "trees": 1,
+                "sky": 1,
+                "mountains": 6,
+                "flowers": 1,
+                "black-white": 1,
+                "scenery": 8,
+                "rain": 1,
+                "food": 2,
+                "water": 1,
+                "mockup": 1,
+                "river": 1,
+                "landscape": 7,
+                "clouds": 1,
+                "earth": 1,
+                "night": 1,
+                "winter": 1,
+                "sport": 1,
+                "sea": 1,
+                "forest": 1,
+                "nature": 1,
+                "sunset": 1,
+                "wood": 1,
+                "architecture": 1,
+                "travel": 1
+            }
+        },
+        "Pixabay": {
+            "ignore_list": [
+                "Animals",
+                "Night",
+                "Sports",
+                "Transportation",
+                "Food",
+                "Sky",
+                "Architecture"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Architecture": 1,
+                "Forest": 21,
+                "Scenery": 29,
+                "Mountain": 23,
+                "Sky": 1,
+                "Night": 1,
+                "Food": 1,
+                "Landscapes": 14,
+                "Nature": 12,
+                "Sports": 1,
+                "Transportation": 1
+            },
+            "save_cookie": {
+                "__cfduid": "dc20567b7cc98dbf907050b924556e1201570169506",
+                "csrftoken": "uUUp5wFiJ1uxA9zaZyby3Mg0yi9NjmbVY3ZpAoShxlls9sA2dkcEuT1rme95taFk",
+                "lang": "zh",
+                "sessionid": "\".eJxVjEsOgyAUAO_CuiECxWAvQ568p9LyafisTO9e66KJ28nM7MwGSGuHldiDUWI3ZqG3zfZKxW5QtwNrpzQOSoASCxpCbSYFC9JwRzHrYURphDKgr_EM7kUJj_5d8pNc4735ULnrteV4ityfaoJINhdLEXz4d5eZ_32EGuUkjWafL9oYPb0:1iGI5p:GVHBC7KMx5iIU6O3jM4rYF6yLz4\""
+            }
+        },
+        "Baidu": {
+            "ignore_list": [
+                "\u8dd1\u8f66",
+                "\u660e\u661f",
+                "\u5f71\u89c6",
+                "\u6e38\u620f",
+                "\u82b1\u8349",
+                "\u52a8\u7269",
+                "\u6e38\u620f\u52a8\u6f2b",
+                "\u5361\u901a\u52a8\u6f2b",
+                "\u624b\u7ed8\u7d20\u63cf",
+                "\u6cbb\u6108\u7cfb",
+                "\u4f53\u80b2",
+                "\u5361\u901a",
+                "\u65c5\u6e38\u98ce\u5149",
+                "\u4e09\u7ef4\u7acb\u4f53",
+                "\u9ad8\u6e05\u58c1\u7eb8",
+                "\u840c\u5ba0",
+                "\u7f8e\u98df",
+                "\u521b\u610f\u8bbe\u8ba1",
+                "\u6de1\u96c5",
+                "\u65f6\u5c1a",
+                "\u661f\u5ea7",
+                "\u53e4\u5178",
+                "\u79d1\u5e7b",
+                "3D",
+                "\u70ab\u9177",
+                "\u62a4\u773c",
+                "\u8282\u65e5",
+                "\u4e2d\u56fd\u98ce",
+                "\u7b80\u7ea6",
+                "\u4e2a\u6027",
+                "\u63d2\u753b",
+                "\u5c0f\u6e05\u65b0",
+                "\u53ef\u7231",
+                "\u51b0\u96ea",
+                "\u552f\u7f8e",
+                "\u79cb\u5929",
+                "\u7530\u56ed",
+                "\u591c\u666f",
+                "\u5b87\u5b99"
+            ],
+            "like_list": [],
+            "hate_list": [
+                "174900"
+            ],
+            "cate_page": {
+                "\u98ce\u666f": 60,
+                "\u96ea\u666f": 90,
+                "\u5b87\u5b99": 0,
+                "\u5c71\u6c34": 60,
+                "\u591c\u666f": 0,
+                "\u84dd\u5929": 0,
+                "\u79cb\u5929": 0,
+                "\u7530\u56ed": 0,
+                "\u661f\u7a7a": 60,
+                "\u81ea\u7136": 90,
+                "\u51b0\u96ea": 0,
+                "\u552f\u7f8e": 0,
+                "\u53ef\u7231": 0,
+                "\u5c0f\u6e05\u65b0": 0,
+                "\u63d2\u753b": 0,
+                "\u6c34\u58a8\u753b": 30,
+                "\u4e2a\u6027": 0,
+                "\u7b80\u7ea6": 0,
+                "\u62a4\u773c": 0,
+                "\u8282\u65e5": 0,
+                "\u4e2d\u56fd\u98ce": 0,
+                "\u70ab\u9177": 0,
+                "3D": 0,
+                "\u79d1\u5e7b": 0,
+                "\u65f6\u5c1a": 0,
+                "\u661f\u5ea7": 0,
+                "\u53e4\u5178": 0,
+                "\u6de1\u96c5": 0,
+                "\u521b\u610f\u8bbe\u8ba1": 0,
+                "\u7f8e\u98df": 0,
+                "\u4e09\u7ef4\u7acb\u4f53": 0,
+                "\u9ad8\u6e05\u58c1\u7eb8": 0,
+                "\u840c\u5ba0": 0,
+                "\u5361\u901a": 0,
+                "\u4f53\u80b2": 0,
+                "\u56fd\u5bb6\u5730\u7406": 30,
+                "\u624b\u7ed8\u7d20\u63cf": 0,
+                "\u65c5\u6e38\u98ce\u5149": 0,
+                "\u6cbb\u6108\u7cfb": 0,
+                "\u5361\u901a\u52a8\u6f2b": 0,
+                "\u6e38\u620f\u52a8\u6f2b": 0,
+                "\u52a8\u7269": 0,
+                "\u5f71\u89c6": 0,
+                "\u6e38\u620f": 0,
+                "\u82b1\u8349": 0,
+                "\u660e\u661f": 0,
+                "\u8dd1\u8f66": 0
+            }
+        },
+        "Wallpapersite": {
+            "ignore_list": [
+                "Animals",
+                "Movies",
+                "Sports",
+                "Music",
+                "Games",
+                "Flowers",
+                "Anime"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Anime": 1,
+                "Black/Dark": 1,
+                "Forest": 1,
+                "Mountain": 1,
+                "Flowers": 1,
+                "Games": 1,
+                "Movies": 1,
+                "Music": 1,
+                "Nature": 1,
+                "Sports": 1,
+                "World": 1
+            }
+        },
+        "Hddesktop": {
+            "ignore_list": [
+                "Animals",
+                "Games",
+                "Sports",
+                "Night",
+                "Movies",
+                "Flowers",
+                "Anime"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Anime": 1,
+                "Flowers": 1,
+                "Games": 1,
+                "Night": 1,
+                "Movies": 1,
+                "Landscape": 8,
+                "Forest": 14,
+                "Mountain": 17,
+                "Scenery": 20,
+                "Nature": 12,
+                "Sports": 1
+            }
+        },
+        "Wallpaperup": {
+            "ignore_list": [
+                "Abstract",
+                "Animals",
+                "Food",
+                "Dark",
+                "3D",
+                "Sports",
+                "Anime",
+                "Cartoons",
+                "Movies",
+                "Fruits",
+                "Drops",
+                "Flowers",
+                "Lakes",
+                "Rivers",
+                "Plants",
+                "Sea",
+                "Architecture",
+                "Cities",
+                "Sky",
+                "Space"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Abstract": 1,
+                "Animals": 1,
+                "Food": 1,
+                "Sports": 1,
+                "3D": 1,
+                "Dark": 1,
+                "Anime": 1,
+                "Cartoons": 1,
+                "Movies": 1,
+                "Drops": 1,
+                "Flowers": 1,
+                "Fruits": 1,
+                "Lakes": 1,
+                "Landscapes": 5,
+                "Mountains": 4,
+                "Plants": 1,
+                "Rivers": 1,
+                "Sea": 1,
+                "Sky": 1,
+                "Space": 1,
+                "Trees": 3,
+                "Waterfalls": 2,
+                "Nature": 5,
+                "Architecture": 1,
+                "Cities": 1
+            }
+        },
+        "Wallhaven": {
+            "ignore_list": [
+                "Transportation",
+                "Sports",
+                "Sea",
+                "Sky",
+                "Plants",
+                "Literature",
+                "Movies",
+                "Music",
+                "Food",
+                "Animals",
+                "Architecture",
+                "Cities"
+            ],
+            "like_list": [],
+            "hate_list": [
+                "7689x9"
+            ],
+            "cate_page": {
+                "Animals": 1,
+                "Architecture": 1,
+                "Cities": 1,
+                "Food": 1,
+                "Forest": 4,
+                "Landscapes": 10,
+                "Literature": 1,
+                "Movies": 1,
+                "Music": 1,
+                "Mountain": 4,
+                "Nature": 7,
+                "Plants": 1,
+                "Scenery": 1,
+                "Sea": 1,
+                "Sky": 1,
+                "Sports": 1,
+                "Transportation": 1
+            }
+        },
+        "Alphacoders": {
+            "ignore_list": [
+                "Food",
+                "Music",
+                "Sky",
+                "Sports",
+                "Plants",
+                "Sea",
+                "Movies",
+                "Literature",
+                "Night",
+                "Forest"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Nature": 6,
+                "Scenery": 8,
+                "Mountain": 3,
+                "Food": 1,
+                "Night": 1,
+                "Forest": 1,
+                "Landscapes": 5,
+                "Literature": 1,
+                "Movies": 1,
+                "Music": 1,
+                "Plants": 1,
+                "Sea": 1,
+                "Sky": 1,
+                "Sports": 1
+            }
+        },
+        "Wallpaperwide": {
+            "ignore_list": [
+                "animals",
+                "cartoons",
+                "funny",
+                "travel",
+                "seasons",
+                "sports",
+                "water",
+                "movies",
+                "games",
+                "holidays",
+                "food",
+                "architecture",
+                "black_white"
+            ],
+            "like_list": [
+                [
+                    "moraine_lake_sunrise",
+                    [
+                        "moraine_lake_sunrise",
+                        "http://wallpaperswide.com/download/moraine_lake_sunrise-wallpaper-1920x1080.jpg"
+                    ]
+                ]
+            ],
+            "hate_list": [],
+            "cate_page": {
+                "animals": 1,
+                "architecture": 1,
+                "black_white": 1,
+                "cartoons": 1,
+                "food": 1,
+                "forest": 5,
+                "funny": 1,
+                "games": 1,
+                "holidays": 1,
+                "landscapes": 4,
+                "mountain": 8,
+                "movies": 1,
+                "nature": 3,
+                "seasons": 1,
+                "sports": 1,
+                "scenery": 3,
+                "travel": 1,
+                "water": 1
+            }
+        },
+        "Zol": {
+            "ignore_list": [
+                "\u8282\u65e5",
+                "\u5f71\u89c6",
+                "\u661f\u5ea7",
+                "\u7f8e\u98df",
+                "\u52a8\u7269",
+                "\u9759\u7269",
+                "\u52a8\u6f2b",
+                "\u5efa\u7b51"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "\u98ce\u666f": 0,
+                "\u52a8\u6f2b": 0,
+                "\u5efa\u7b51": 0,
+                "\u690d\u7269": 9,
+                "\u9759\u7269": 0,
+                "\u52a8\u7269": 0,
+                "\u5f71\u89c6": 0,
+                "\u661f\u5ea7": 0,
+                "\u7f8e\u98df": 0,
+                "\u8282\u65e5": 0
+            }
+        },
+        "Wallpapercraft": {
+            "ignore_list": [
+                "Animals",
+                "Abstract",
+                "City",
+                "Food",
+                "Movies",
+                "Fantasy",
+                "Space",
+                "Sports",
+                "Music",
+                "Sky"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Abstract": 2,
+                "City": 1,
+                "Food": 1,
+                "Forest": 5,
+                "Landscapes": 4,
+                "Mountain": 4,
+                "Movies": 1,
+                "Fantasy": 1,
+                "Nature": 5,
+                "Space": 1,
+                "Scenery": 2,
+                "Music": 1,
+                "Sky": 1,
+                "Sports": 1
+            }
+        },
+        "Desktopwallpaper": {
+            "ignore_list": [
+                "Animals",
+                "Fantasy",
+                "Holidays",
+                "Photography",
+                "Sports",
+                "Music",
+                "Funny",
+                "Flowers",
+                "Abstract",
+                "Cartoons"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Abstract": 1,
+                "Cartoons": 1,
+                "Fantasy": 1,
+                "Funny": 1,
+                "Flowers": 1,
+                "Holidays": 1,
+                "Music": 1,
+                "Nature": 10,
+                "Photography": 1,
+                "Sports": 1,
+                "World": 12
+            }
+        },
+        "Sogou": {
+            "ignore_list": [
+                "\u552f\u7f8e",
+                "\u9759\u7269",
+                "\u624b\u7ed8",
+                "\u521b\u610f",
+                "\u6e05\u65b0",
+                "\u52a8\u6f2b",
+                "\u52a8\u7269"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "\u4e16\u754c\u98ce\u5149": 20,
+                "\u52a8\u7269": 0,
+                "\u52a8\u6f2b": 0,
+                "\u552f\u7f8e": 0,
+                "\u98ce\u666f": 100,
+                "\u6e05\u65b0": 0,
+                "\u9759\u7269": 0,
+                "\u624b\u7ed8": 0,
+                "\u521b\u610f": 0
+            }
+        },
+        "Wallpaperhome": {
+            "ignore_list": [
+                "Animals",
+                "Abstract",
+                "Architecture",
+                "Music",
+                "Movies",
+                "Games",
+                "Sport",
+                "Food",
+                "Holidays",
+                "Space"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Animals": 1,
+                "Abstract": 1,
+                "Architecture": 1,
+                "Games": 1,
+                "Movies": 1,
+                "Music": 1,
+                "Nature": 20,
+                "Sport": 1,
+                "Space": 1,
+                "Food": 1,
+                "Holidays": 1
+            }
+        },
+        "Bestwallpaper": {
+            "ignore_list": [
+                "Abstract",
+                "Animals",
+                "Cute",
+                "Design",
+                "Flowers",
+                "Creative",
+                "Games",
+                "Movies",
+                "World"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Abstract": 1,
+                "Animals": 1,
+                "Cute": 1,
+                "Creative": 1,
+                "Flowers": 1,
+                "Design": 1,
+                "Games": 1,
+                "Movies": 1,
+                "Nature": 18,
+                "World": 1
+            }
+        },
+        "Wallpapercave": {
+            "ignore_list": [
+                "Animals",
+                "Geography",
+                "Movies",
+                "Music",
+                "Space",
+                "Games",
+                "Holidays",
+                "Anime",
+                "Cartoons"
+            ],
+            "like_list": [
+                [
+                    "wp2546363",
+                    "/download/banff-national-park-wallpapers-wp2546363"
+                ],
+                [
+                    "wp4111668",
+                    "/download/bay-wallpapers-wp4111668"
+                ]
+            ],
+            "hate_list": [
+                "wp2493980"
+            ],
+            "cate_page": {
+                "Animals": 2,
+                "Anime": 1,
+                "Cartoons": 1,
+                "Geography": 1,
+                "Holidays": 1,
+                "Games": 1,
+                "Movies": 1,
+                "Nature": 32,
+                "Space": 1,
+                "Music": 1
+            }
+        },
+        "Wallpaperhi": {
+            "ignore_list": [
+                "animals",
+                "Clouds",
+                "anime",
+                "Trees",
+                "fantasy",
+                "Music",
+                "snow",
+                "Flowers",
+                "movies",
+                "sunset"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "nature": 4,
+                "animals": 1,
+                "Landscapes": 5,
+                "anime": 1,
+                "Clouds": 1,
+                "mountains": 3,
+                "fantasy": 1,
+                "Trees": 1,
+                "Flowers": 1,
+                "Music": 1,
+                "movies": 1,
+                "sunset": 1,
+                "snow": 1,
+                "forest": 3
+            }
+        },
+        "Bing": {
+            "ignore_list": [
+                "animals",
+                "\u521b\u610f",
+                "architecture",
+                "\u6e05\u65b0",
+                "movies",
+                "\u5f71\u89c6",
+                "\u62a4\u773c"
+            ],
+            "like_list": [],
+            "hate_list": [
+                "424335"
+            ],
+            "cate_page": {
+                "nature": 30,
+                "animals": 0,
+                "landscapes": 40,
+                "\u81ea\u7136": 60,
+                "\u98ce\u666f": 20,
+                "mountains": 70,
+                "\u5c71\u6c34": 20,
+                "world": 50,
+                "\u5b63\u8282": 40,
+                "\u5f71\u89c6": 0,
+                "movies": 0,
+                "\u6e05\u65b0": 0,
+                "\u62a4\u773c": 0,
+                "\u521b\u610f": 0,
+                "architecture": 0,
+                "forest": 10
+            }
+        },
+        "Wallpapertag": {
+            "ignore_list": [
+                "abstract",
+                "anime",
+                "music",
+                "fantasy",
+                "flowers",
+                "art",
+                "holidays",
+                "animals",
+                "movies",
+                "space",
+                "travel"
+            ],
+            "like_list": [],
+            "hate_list": [
+                "494261"
+            ],
+            "cate_page": {
+                "abstract": 0,
+                "holidays": 0,
+                "animals": 0,
+                "anime": 0,
+                "art": 0,
+                "movies": 0,
+                "music": 0,
+                "nature": 21,
+                "space": 0,
+                "fantasy": 0,
+                "flowers": 0,
+                "travel": 0
+            }
+        },
+        "Hdwallpaper": {
+            "ignore_list": [
+                "abstract",
+                "sport",
+                "sunset",
+                "clouds",
+                "nature",
+                "water",
+                "tree"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "mountain": 120,
+                "sport": 0,
+                "sunset": 0,
+                "clouds": 0,
+                "tree": 0,
+                "water": 0,
+                "nature": 0,
+                "abstract": 0,
+                "scenery": 120,
+                "landscape": 0
+            }
+        },
+        "Huyanbizhi": {
+            "ignore_list": [
+                "\u827a\u672f",
+                "\u97f3\u4e50",
+                "\u8282\u65e5",
+                "\u661f\u5ea7",
+                "\u690d\u7269",
+                "\u52a8\u6f2b"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "\u98ce\u666f": 1,
+                "\u52a8\u6f2b": 1,
+                "\u661f\u7a7a": 1,
+                "\u5927\u81ea\u7136": 2,
+                "\u661f\u5ea7": 1,
+                "\u690d\u7269": 1,
+                "\u827a\u672f": 1,
+                "\u97f3\u4e50": 1,
+                "\u8282\u65e5": 1
+            }
+        },
+        "Ssyer": {
+            "ignore_list": [
+                "\u521b\u610f",
+                "\u6e05\u65b0",
+                "\u7b80\u7ea6",
+                "\u81ea\u7136"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "\u98ce\u666f": 68,
+                "\u81ea\u7136": 1,
+                "\u6e05\u65b0": 1,
+                "\u7b80\u7ea6": 1,
+                "\u5c71\u6c34": 12,
+                "\u521b\u610f": 1
+            },
+            "save_cookie": {
+                "SESSION": "YWExN2RkOGYtNjBjYy00N2I5LTlhZTAtY2MwMTViMGY1OTNi"
+            }
+        },
+        "V3wall": {
+            "ignore_list": [
+                "\u52a8\u7269",
+                "\u52a8\u6f2b",
+                "\u690d\u7269",
+                "\u8282\u65e5",
+                "\u5f71\u89c6"
+            ],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "\u98ce\u666f": 0,
+                "\u52a8\u6f2b": 0,
+                "\u5f71\u89c6": 0,
+                "\u52a8\u7269": 0,
+                "\u690d\u7269": 0,
+                "\u8282\u65e5": 0
+            }
+        },
+        "Visualhunt": {
+            "ignore_list": [],
+            "like_list": [],
+            "hate_list": [],
+            "cate_page": {
+                "Music": 1,
+                "Travel": 2,
+                "Flower": 1,
+                "Nature": 1,
+                "Sea": 1,
+                "Tree": 1,
+                "Food": 1,
+                "Sky": 1,
+                "Snow": 1,
+                "Happy": 1
+            }
+        }
+    },
+    "ignore_api": [
+        "Wallpapersite",
+        "Pixabay"
+    ],
+    "download_list": []
+}

@@ -1,0 +1,65 @@
+{
+    "size": [
+        1000,
+        600
+    ],
+    "md": {
+        "h": {
+            "content": "# \n",
+            "tip": "\u6807\u9898",
+            "type": "add"
+        },
+        "b": {
+            "content": "**%**",
+            "tip": "\u52a0\u7c97",
+            "type": "decorate"
+        },
+        "i": {
+            "content": "*%*",
+            "tip": "\u659c\u4f53",
+            "type": "decorate"
+        },
+        "del_": {
+            "content": "~~%~~",
+            "tip": "\u5e9f\u9664",
+            "type": "decorate"
+        },
+        "img": {
+            "content": "![]()",
+            "tip": "\u56fe\u7247",
+            "type": "add"
+        },
+        "link": {
+            "content": "[]()",
+            "tip": "\u8d85\u94fe",
+            "type": "add"
+        },
+        "code": {
+            "content": "```python\n\n```",
+            "tip": "\u4ee3\u7801",
+            "type": "add"
+        },
+        "ul": {
+            "content": "* \n* \n* \n",
+            "tip": "\u65e0\u5e8f\u5217\u8868",
+            "type": "add"
+        },
+        "ol": {
+            "content": "1. \n2. \n3. \n",
+            "tip": "\u6709\u5e8f\u5217\u8868",
+            "type": "add"
+        },
+        "table": {
+            "content": "|  |  |\n|--|--|\n|  |  |",
+            "tip": "\u8868\u683c",
+            "type": "add"
+        }
+    },
+    "theme": {
+        "white": "#ffffff",
+        "dark": "#2B2B2B",
+        "wheat": "#E6BE76"
+    },
+    "choose_theme": "wheat",
+    "font-size": 14
+}

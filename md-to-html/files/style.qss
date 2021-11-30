@@ -1,0 +1,78 @@
+*{
+    font-family: Microsoft YaHei;
+}
+QMenuBar{
+    background: theme;
+    font-size: 0.95rem;
+    font-weight: bold;
+}
+QMenuBar::item{
+    padding: 4px 15px;
+    background: #AA41EE;
+    color: white;
+    margin-right: 1px;
+}
+QMenuBar::item:open{
+    background: #EE555B;
+}
+#choose_color::item:checked{
+    border: 1px solid black;
+}
+
+#head{
+    background: theme;
+    border: 1px solid black;
+    max-height: 4rem;
+    min-height: 4rem;
+    height: 4rem;
+}
+.md-btn{
+    font-family: iconfont;
+    font-size: 1.5rem;
+    background: #79aaff;
+    border: 1px solid;
+    padding: 4px 0;
+    border-radius: 5px;
+    width: 4rem;
+}
+.md-btn:hover{
+    background: #a900e6;
+    color: white;
+}
+#switch{
+    border-radius: 8px;
+    border: 1px solid black;
+}
+#switch QPushButton{
+    margin: 0;
+    font-size: 1.1rem;
+    width: 4.8rem;
+    height: 2.6rem;
+    background: white;
+}
+#swt_md{
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-right: 1px solid black;
+}
+#swt_html{
+    border-radius: 0;
+    border-right: 1px solid black;
+}
+#swt_pre{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+#switch .active{
+    background: #42B8E6;
+}
+#work{
+
+}
+#work QLabel{
+    background: theme;
+}
+QTextEdit{
+    font-size: 1.1rem;
+    font-family: Consolas, serif;
+}

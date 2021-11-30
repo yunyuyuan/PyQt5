@@ -1,0 +1,16 @@
+blockquote{
+    border-left: 0.3rem solid black;
+    margin: 0 0.4rem;
+}
+del{
+    text-decoration: line-through;
+}
+table{
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid white;
+}
+th, td{
+    border: 1px solid;
+}
